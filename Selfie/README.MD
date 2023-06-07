@@ -1,6 +1,9 @@
 ## Selfie
 ![selfie](https://github.com/fahimalshihab/BxMCTF-23-MGCI-CTF-CLUB/assets/97816146/92304224-33b9-4c32-a677-84b18d5fc712)
 
+![selfie](https://github.com/fahimalshihab/BxMCTF-23-MGCI-CTF-CLUB/assets/97816146/b0154e51-44b7-4f8a-95f6-33ce2dad21c0)
+
+
 1) Inside the zip there is a jpg file ![BxMCTF-Foren-1](https://github.com/fahimalshihab/BxMCTF-23-MGCI-CTF-CLUB/assets/97816146/1194b955-4c0b-4e76-8e1a-7478a719055e)
 
 2) Edit the jpg to txt ("BxMCTF-Foren-1.jpg" to "BxMCTF-Foren-1.txt")
