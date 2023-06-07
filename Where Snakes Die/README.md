@@ -1,5 +1,5 @@
 ## Where Snakes Die
-1)first we get the text from zip
+1)first we get the text from crypto2.zip
 
 2)it looks like it has space and tab so i replace the tabs with 1 and spaces with 0 and we get
 1010|1|0010|1|01|1000|000|111|0001|0|010|000|0110|01|1010|0|000
