@@ -1,4 +1,7 @@
 ## Selfie
+*unzip
+*exiftool
+
 ![selfie](https://github.com/fahimalshihab/BxMCTF-23-MGCI-CTF-CLUB/assets/97816146/92304224-33b9-4c32-a677-84b18d5fc712)
 
 ![selfie](https://github.com/fahimalshihab/BxMCTF-23-MGCI-CTF-CLUB/assets/97816146/b0154e51-44b7-4f8a-95f6-33ce2dad21c0)
